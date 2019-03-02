@@ -4,4 +4,4 @@ Test test2
 
 This is a trainning for Testing
 
-#######$$$$$$
+This is my first code file and java developer.
