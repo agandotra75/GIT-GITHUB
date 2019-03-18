@@ -1,3 +1,7 @@
+First update got merge conflict.
+
+
+
 tHIS IS A test for the merge conflict testing .
 
 I am in dev ops trainning
